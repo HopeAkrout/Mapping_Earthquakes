@@ -1,5 +1,9 @@
+# additional files to ignore
+config.js
+
 # Compiled class file
 *.class
+
 
 # Log file
 *.log
