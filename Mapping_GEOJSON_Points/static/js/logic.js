@@ -23,7 +23,7 @@ let baseMaps = {
   };
 
 
-  // Create the map object with center, zoom level and default layer.
+// Create the map object with center, zoom level and default layer.
 let map = L.map('mapid', {
     center: [30, 30],
     zoom: 2,
@@ -51,4 +51,3 @@ d3.json(airportData).then(function(data) {
         }
     }).addTo(map);
 });
-
