@@ -15,9 +15,18 @@ It could be used in combination with the branches covering lines and linestrings
 The map produced allows for the user to choose various settings according to their own visual needs.  The map defaults to 
 a street view world map with all earthquakes and tectonic plates overlayed, as well as a legend indicator for the earthquake colors on the bottom right-hand side.
 
+![default page settings](https://user-images.githubusercontent.com/107294123/189512699-707059bc-2250-4549-abc5-70562ab86565.png)
+
+
 However, the toggle feature on the top right corner also offers a satellite image, as well as dark and light maps for those who find the standard backgrounds too distracting and need a simple backdrop to see the data better.  
 
+![Major Earthquakes](https://user-images.githubusercontent.com/107294123/189512707-8e09c3e4-88eb-4beb-abdc-d112426fb4e0.png)
+
+
 The overlays are set up in such a way that they can be selected individually, overlayed on top of eachother, or completely removed from view to offer users the most controlled experience.
+
+![toggle settings](https://user-images.githubusercontent.com/107294123/189512717-381874aa-5f4d-4861-a7fe-96096d1bba65.png)
+
 
 ## Conclusion
 
